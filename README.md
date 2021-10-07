@@ -8,3 +8,7 @@
 - 已經收集過的亮晶晶寶可夢的底色會呈藍紫色 (顏色參考自 Pokemon GO 亮晶晶寶可夢的背景)
 - 已經收集過的亮晶晶寶可夢清單是可以儲存、編輯的
 - 除了輸入寶可夢編號之外，也可以透過點擊圖鑑上的寶可夢圖案，來增加清單中的項目
+
+![](./luckypokedex/tree/main/images/pokedex.png)
+
+![](./luckypokedex/tree/main/images/pokedex_2.png)
